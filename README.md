@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello ~~ Welcome to my repository and My name is Juho Nam 👋
 
 <!--
 **NamJyo/NamJyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
